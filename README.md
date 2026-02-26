@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devu122
+- 👋 Hi, I’m @devanxi
 - 👀 I’m interested in AI 
 - 🌱 I’m currently pursuing B.tech(Computer)
 - 💞️ I’m looking to collaborate on ...
